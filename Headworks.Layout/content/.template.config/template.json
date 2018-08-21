@@ -1,0 +1,12 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Vladyslav Kyznietsov",
+  "classifications": [ "Backend-Layout"],
+  "identity": "Headworks.BackendLayout.CSharp",
+  "name": "Headworks Backend Layout",
+  "shortName": "hw-back-layout",
+  "sourceName": "Project",
+  "tags": {
+    "language": "C#"
+  },
+}
