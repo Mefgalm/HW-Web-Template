@@ -5,7 +5,7 @@
   "identity": "Headworks.BackendLayout.CSharp",
   "name": "Headworks Backend Layout",
   "shortName": "hw-back-layout",
-  "sourceName": "Project",
+  "sourceName": "__Project__",
   "tags": {
     "language": "C#"
   },

@@ -1,0 +1,9 @@
+E:\Programming\Projects\PlayCatCore\HW-Web-Template\Headworks.BackendLayout\content\src\__Project__.Common\bin\Debug\netstandard2.0\__Project__.Common.deps.json
+E:\Programming\Projects\PlayCatCore\HW-Web-Template\Headworks.BackendLayout\content\src\__Project__.Common\bin\Debug\netstandard2.0\__Project__.Common.dll
+E:\Programming\Projects\PlayCatCore\HW-Web-Template\Headworks.BackendLayout\content\src\__Project__.Common\bin\Debug\netstandard2.0\__Project__.Common.pdb
+E:\Programming\Projects\PlayCatCore\HW-Web-Template\Headworks.BackendLayout\content\src\__Project__.Common\obj\Debug\netstandard2.0\__Project__.Common.csprojAssemblyReference.cache
+E:\Programming\Projects\PlayCatCore\HW-Web-Template\Headworks.BackendLayout\content\src\__Project__.Common\obj\Debug\netstandard2.0\__Project__.Common.csproj.CoreCompileInputs.cache
+E:\Programming\Projects\PlayCatCore\HW-Web-Template\Headworks.BackendLayout\content\src\__Project__.Common\obj\Debug\netstandard2.0\__Project__.Common.AssemblyInfoInputs.cache
+E:\Programming\Projects\PlayCatCore\HW-Web-Template\Headworks.BackendLayout\content\src\__Project__.Common\obj\Debug\netstandard2.0\__Project__.Common.AssemblyInfo.cs
+E:\Programming\Projects\PlayCatCore\HW-Web-Template\Headworks.BackendLayout\content\src\__Project__.Common\obj\Debug\netstandard2.0\__Project__.Common.dll
+E:\Programming\Projects\PlayCatCore\HW-Web-Template\Headworks.BackendLayout\content\src\__Project__.Common\obj\Debug\netstandard2.0\__Project__.Common.pdb

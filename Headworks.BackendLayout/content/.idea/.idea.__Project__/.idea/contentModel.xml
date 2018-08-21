@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Mef\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\___Project__.1869182722.00" t="ExcludeRecursive" />
+    <e p="E:\Programming\Projects\PlayCatCore\HW-Web-Template\Headworks.BackendLayout\content" t="IncludeFlat">
+      <e p="__Project__.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="src" t="Include">
+        <e p="__Project__.Common" t="IncludeRecursive">
+          <e p="__Project__.Common.csproj" t="IncludeRecursive" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="Invoke" t="Include">
+            <e p="IInvokeHandler.cs" t="Include" />
+            <e p="IInvoker.cs" t="Include" />
+            <e p="IInvokeResultSettings.cs" t="Include" />
+            <e p="InvokeFunctionLogSetttings.cs" t="Include" />
+            <e p="InvokeResult.cs" t="Include" />
+            <e p="InvokeResultSettings.cs" t="Include" />
+            <e p="LogInvokeResult.cs" t="Include" />
+            <e p="OperationLogSettings.cs" t="Include" />
+            <e p="ResultCode.cs" t="Include" />
+          </e>
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netstandard2.0" t="Include">
+                <e p="__Project__.Common.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="__Project__.Web" t="IncludeRecursive">
+          <e p="__Project__.Web.csproj" t="IncludeRecursive" />
+          <e p="appsettings.Development.json" t="Include" />
+          <e p="appsettings.json" t="Include" />
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="Controllers" t="Include">
+            <e p="ValuesController.cs" t="Include" />
+          </e>
+          <e p="nlog.config" t="Include" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp2.0" t="Include">
+                <e p="__Project__.Web.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Program.cs" t="Include" />
+          <e p="Startup.cs" t="Include" />
+          <e p="wwwroot" t="Include" />
+        </e>
+      </e>
+    </e>
+  </component>
+</project>

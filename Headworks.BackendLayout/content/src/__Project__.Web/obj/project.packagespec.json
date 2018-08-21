@@ -1,0 +1,63 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "E:\\Programming\\Projects\\PlayCatCore\\HW-Web-Template\\Headworks.BackendLayout\\content\\src\\__Project__.Web\\__Project__.Web.csproj",
+    "projectName": "__Project__.Web",
+    "projectPath": "E:\\Programming\\Projects\\PlayCatCore\\HW-Web-Template\\Headworks.BackendLayout\\content\\src\\__Project__.Web\\__Project__.Web.csproj",
+    "outputPath": "E:\\Programming\\Projects\\PlayCatCore\\HW-Web-Template\\Headworks.BackendLayout\\content\\src\\__Project__.Web\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {
+          "E:\\Programming\\Projects\\PlayCatCore\\HW-Web-Template\\Headworks.BackendLayout\\content\\src\\__Project__.Common\\__Project__.Common.csproj": {
+            "projectPath": "E:\\Programming\\Projects\\PlayCatCore\\HW-Web-Template\\Headworks.BackendLayout\\content\\src\\__Project__.Common\\__Project__.Common.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.AspNetCore.All": {
+          "target": "Package",
+          "version": "[2.0.9, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.0, )",
+          "autoReferenced": true
+        },
+        "NLog.Extensions": {
+          "target": "Package",
+          "version": "[1.0.1, )"
+        },
+        "NLog.Targets.ElasticSearch": {
+          "target": "Package",
+          "version": "[5.0.0, )"
+        },
+        "NLog.Web.AspNetCore": {
+          "target": "Package",
+          "version": "[4.6.0, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

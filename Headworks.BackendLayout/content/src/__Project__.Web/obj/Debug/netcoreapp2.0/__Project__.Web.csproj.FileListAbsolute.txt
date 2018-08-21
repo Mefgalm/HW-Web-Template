@@ -1,0 +1,14 @@
+E:\Programming\Projects\PlayCatCore\HW-Web-Template\Headworks.BackendLayout\content\src\__Project__.Web\bin\Debug\netcoreapp2.0\__Project__.Web.deps.json
+E:\Programming\Projects\PlayCatCore\HW-Web-Template\Headworks.BackendLayout\content\src\__Project__.Web\bin\Debug\netcoreapp2.0\__Project__.Web.runtimeconfig.json
+E:\Programming\Projects\PlayCatCore\HW-Web-Template\Headworks.BackendLayout\content\src\__Project__.Web\bin\Debug\netcoreapp2.0\__Project__.Web.runtimeconfig.dev.json
+E:\Programming\Projects\PlayCatCore\HW-Web-Template\Headworks.BackendLayout\content\src\__Project__.Web\bin\Debug\netcoreapp2.0\__Project__.Web.dll
+E:\Programming\Projects\PlayCatCore\HW-Web-Template\Headworks.BackendLayout\content\src\__Project__.Web\bin\Debug\netcoreapp2.0\__Project__.Web.pdb
+E:\Programming\Projects\PlayCatCore\HW-Web-Template\Headworks.BackendLayout\content\src\__Project__.Web\bin\Debug\netcoreapp2.0\__Project__.Common.dll
+E:\Programming\Projects\PlayCatCore\HW-Web-Template\Headworks.BackendLayout\content\src\__Project__.Web\bin\Debug\netcoreapp2.0\__Project__.Common.pdb
+E:\Programming\Projects\PlayCatCore\HW-Web-Template\Headworks.BackendLayout\content\src\__Project__.Web\obj\Debug\netcoreapp2.0\__Project__.Web.csprojAssemblyReference.cache
+E:\Programming\Projects\PlayCatCore\HW-Web-Template\Headworks.BackendLayout\content\src\__Project__.Web\obj\Debug\netcoreapp2.0\__Project__.Web.csproj.CoreCompileInputs.cache
+E:\Programming\Projects\PlayCatCore\HW-Web-Template\Headworks.BackendLayout\content\src\__Project__.Web\obj\Debug\netcoreapp2.0\__Project__.Web.AssemblyInfoInputs.cache
+E:\Programming\Projects\PlayCatCore\HW-Web-Template\Headworks.BackendLayout\content\src\__Project__.Web\obj\Debug\netcoreapp2.0\__Project__.Web.AssemblyInfo.cs
+E:\Programming\Projects\PlayCatCore\HW-Web-Template\Headworks.BackendLayout\content\src\__Project__.Web\obj\Debug\netcoreapp2.0\__Project__.Web.csproj.CopyComplete
+E:\Programming\Projects\PlayCatCore\HW-Web-Template\Headworks.BackendLayout\content\src\__Project__.Web\obj\Debug\netcoreapp2.0\__Project__.Web.dll
+E:\Programming\Projects\PlayCatCore\HW-Web-Template\Headworks.BackendLayout\content\src\__Project__.Web\obj\Debug\netcoreapp2.0\__Project__.Web.pdb
