@@ -2,24 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea789f16-7804-463d-b8cc-6d26f59547e9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.__Project__/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.__Project__/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.__Project__/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.__Project__/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.__Project__/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/__Project__.Common/Invoke/IInvokeHandler.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/__Project__.Common/Invoke/IInvokeResultSettings.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/__Project__.Common/Invoke/IInvoker.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/__Project__.Common/Invoke/InvokeFunctionLogSetttings.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/__Project__.Common/Invoke/InvokeResult.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/__Project__.Common/Invoke/InvokeResultSettings.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/__Project__.Common/Invoke/LogInvokeResult.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/__Project__.Common/Invoke/OperationLogSettings.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/__Project__.Common/Invoke/ResultCode.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/__Project__.Web/nlog.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Headworks.BackendLayout.CSharp.1.0.0.nupkg" beforeDir="false" afterPath="$PROJECT_DIR$/../Headworks.BackendLayout.CSharp.1.0.0.nupkg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.template.config/template.json" beforeDir="false" afterPath="$PROJECT_DIR$/.template.config/template.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.__Project__/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.__Project__/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.__Project__/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.__Project__/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/__Project__.Common/Invoke/IInvokeHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/__Project__.Common/Invoke/IInvokeHandler.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/__Project__.Common/Invoke/IInvoker.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/__Project__.Common/Invoke/BaseInvokeHandler.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/__Project__.Common/bin/Debug/netstandard2.0/__Project__.Common.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/__Project__.Common/bin/Debug/netstandard2.0/__Project__.Common.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/__Project__.Common/bin/Debug/netstandard2.0/__Project__.Common.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/__Project__.Common/bin/Debug/netstandard2.0/__Project__.Common.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/__Project__.Common/obj/Debug/netstandard2.0/__Project__.Common.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/__Project__.Common/obj/Debug/netstandard2.0/__Project__.Common.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/__Project__.Common/obj/Debug/netstandard2.0/__Project__.Common.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/__Project__.Common/obj/Debug/netstandard2.0/__Project__.Common.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/__Project__.Common/obj/Debug/netstandard2.0/__Project__.Common.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/__Project__.Common/obj/Debug/netstandard2.0/__Project__.Common.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/__Project__.Web/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/__Project__.Web/Startup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/__Project__.Web/bin/Debug/netcoreapp2.0/__Project__.Common.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/__Project__.Web/bin/Debug/netcoreapp2.0/__Project__.Common.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/__Project__.Web/bin/Debug/netcoreapp2.0/__Project__.Common.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/__Project__.Web/bin/Debug/netcoreapp2.0/__Project__.Common.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/__Project__.Web/bin/Debug/netcoreapp2.0/__Project__.Web.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/__Project__.Web/bin/Debug/netcoreapp2.0/__Project__.Web.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/__Project__.Web/bin/Debug/netcoreapp2.0/__Project__.Web.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/__Project__.Web/bin/Debug/netcoreapp2.0/__Project__.Web.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/__Project__.Web/obj/Debug/netcoreapp2.0/__Project__.Web.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/__Project__.Web/obj/Debug/netcoreapp2.0/__Project__.Web.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/__Project__.Web/obj/Debug/netcoreapp2.0/__Project__.Web.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/__Project__.Web/obj/Debug/netcoreapp2.0/__Project__.Web.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/__Project__.Web/obj/Debug/netcoreapp2.0/__Project__.Web.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/__Project__.Web/obj/Debug/netcoreapp2.0/__Project__.Web.pdb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -33,26 +32,26 @@
       <file leaf-file-name="Startup.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/__Project__.Web/Startup.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" column="47" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
+            <state relative-caret-position="495">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
               <folding>
-                <marker date="1534880337002" expanded="true" signature="6:194" ph="..." />
-                <marker date="1534880337002" expanded="true" signature="221:1170" ph="{...}" />
-                <marker date="1534880337002" expanded="true" signature="248:1168" ph="{...}" />
-                <marker date="1534880337002" expanded="true" signature="307:370" ph="{...}" />
-                <marker date="1534880337002" expanded="true" signature="593:813" ph="{...}" />
-                <marker date="1534880337002" expanded="true" signature="1001:1162" ph="{...}" />
-                <marker date="1534880337002" expanded="true" signature="1048:1125" ph="{...}" />
+                <marker date="1534882973385" expanded="true" signature="6:307" ph="..." />
+                <marker date="1534882973385" expanded="true" signature="334:1299" ph="{...}" />
+                <marker date="1534882973385" expanded="true" signature="361:1296" ph="{...}" />
+                <marker date="1534882973385" expanded="true" signature="420:483" ph="{...}" />
+                <marker date="1534882973385" expanded="true" signature="706:926" ph="{...}" />
+                <marker date="1534882973385" expanded="true" signature="1114:1275" ph="{...}" />
+                <marker date="1534882973385" expanded="true" signature="1161:1238" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ValuesController.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ValuesController.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/__Project__.Web/Controllers/ValuesController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="27" column="12" lean-forward="true" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+            <state relative-caret-position="180">
+              <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
               <folding>
                 <marker date="1534880997956" expanded="false" signature="6:128" ph="..." />
                 <marker date="1534880997956" expanded="true" signature="200:1399" ph="{...}" />
@@ -69,47 +68,44 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/__Project__.Web/Program.cs">
+      <file leaf-file-name="BaseInvokeHandler.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/__Project__.Common/Invoke/BaseInvokeHandler.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+            <state relative-caret-position="540">
+              <caret line="147" lean-forward="true" selection-start-line="147" selection-end-line="147" />
               <folding>
-                <marker date="1534880100485" expanded="true" signature="6:146" ph="..." />
-                <marker date="1534880100485" expanded="true" signature="173:1276" ph="{...}" />
-                <marker date="1534880100485" expanded="true" signature="200:1274" ph="{...}" />
-                <marker date="1534880100485" expanded="true" signature="253:842" ph="{...}" />
-                <marker date="1534880100485" expanded="true" signature="405:534" ph="{...}" />
-                <marker date="1534880100485" expanded="true" signature="574:706" ph="{...}" />
-                <marker date="1534880100485" expanded="true" signature="726:798" ph="{...}" />
-                <marker date="1534880100485" expanded="true" signature="1016:1194" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IInvoker.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/__Project__.Common/Invoke/IInvoker.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-302">
-              <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-              <folding>
-                <marker date="1534880854224" expanded="false" signature="6:147" ph="..." />
-                <marker date="1534880854224" expanded="true" signature="184:3926" ph="{...}" />
-                <marker date="1534880854224" expanded="true" signature="244:3924" ph="{...}" />
-                <marker date="1534880854224" expanded="true" signature="473:595" ph="{...}" />
-                <marker date="1534880854224" expanded="true" signature="681:771" ph="{...}" />
-                <marker date="1534880854224" expanded="true" signature="963:1784" ph="{...}" />
-                <marker date="1534880854224" expanded="true" signature="1310:1644" ph="{...}" />
-                <marker date="1534880854224" expanded="true" signature="1960:2031" ph="{...}" />
-                <marker date="1534880854224" expanded="true" signature="2101:2182" ph="{...}" />
-                <marker date="1534880854224" expanded="true" signature="2358:2605" ph="{...}" />
-                <marker date="1534880854224" expanded="true" signature="2707:2886" ph="{...}" />
-                <marker date="1534880854224" expanded="true" signature="2765:2876" ph="{...}" />
-                <marker date="1534880854224" expanded="true" signature="3069:3246" ph="{...}" />
-                <marker date="1534880854224" expanded="true" signature="3127:3236" ph="{...}" />
-                <marker date="1534880854224" expanded="true" signature="3364:3918" ph="{...}" />
-                <marker date="1534880854224" expanded="true" signature="3432:3908" ph="{...}" />
+                <marker date="1534883536833" expanded="false" signature="6:177" ph="..." />
+                <marker date="1534883536833" expanded="true" signature="214:7175" ph="{...}" />
+                <marker date="1534883536833" expanded="true" signature="274:7173" ph="{...}" />
+                <marker date="1534883536833" expanded="true" signature="503:625" ph="{...}" />
+                <marker date="1534883536833" expanded="true" signature="635:2860" ph="Invoke" />
+                <marker date="1534883536833" expanded="true" signature="735:825" ph="{...}" />
+                <marker date="1534883536833" expanded="true" signature="1017:2045" ph="{...}" />
+                <marker date="1534883536833" expanded="true" signature="1364:1698" ph="{...}" />
+                <marker date="1534883536833" expanded="true" signature="1764:1831" ph="{...}" />
+                <marker date="1534883536833" expanded="true" signature="1864:1926" ph="{...}" />
+                <marker date="1534883536833" expanded="true" signature="2115:2196" ph="{...}" />
+                <marker date="1534883536833" expanded="true" signature="2372:2840" ph="{...}" />
+                <marker date="1534883536833" expanded="true" signature="2559:2626" ph="{...}" />
+                <marker date="1534883536833" expanded="true" signature="2659:2721" ph="{...}" />
+                <marker date="1534883536833" expanded="true" signature="2870:5360" ph="AsyncInvoke" />
+                <marker date="1534883536833" expanded="true" signature="2976:3062" ph="{...}" />
+                <marker date="1534883536833" expanded="true" signature="3340:3814" ph="{...}" />
+                <marker date="1534883536833" expanded="true" signature="3527:3600" ph="{...}" />
+                <marker date="1534883536833" expanded="true" signature="3633:3695" ph="{...}" />
+                <marker date="1534883536833" expanded="true" signature="3917:4012" ph="{...}" />
+                <marker date="1534883536833" expanded="true" signature="4306:5340" ph="{...}" />
+                <marker date="1534883536833" expanded="true" signature="4653:4987" ph="{...}" />
+                <marker date="1534883536833" expanded="true" signature="5053:5126" ph="{...}" />
+                <marker date="1534883536833" expanded="true" signature="5159:5221" ph="{...}" />
+                <marker date="1534883536833" expanded="true" signature="5451:5522" ph="{...}" />
+                <marker date="1534883536833" expanded="true" signature="5709:5888" ph="{...}" />
+                <marker date="1534883536833" expanded="true" signature="5767:5878" ph="{...}" />
+                <marker date="1534883536833" expanded="true" signature="6071:6248" ph="{...}" />
+                <marker date="1534883536833" expanded="true" signature="6129:6238" ph="{...}" />
+                <marker date="1534883536833" expanded="true" signature="6307:6495" ph="{...}" />
+                <marker date="1534883536833" expanded="true" signature="6613:7167" ph="{...}" />
+                <marker date="1534883536833" expanded="true" signature="6681:7157" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -119,10 +115,10 @@
         <entry file="file://$PROJECT_DIR$/src/__Project__.Common/Invoke/IInvokeResultSettings.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="144">
-              <caret line="8" column="34" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="34" />
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
               <folding>
-                <marker date="1534880762075" expanded="true" signature="50:315" ph="{...}" />
-                <marker date="1534880762075" expanded="true" signature="108:313" ph="{...}" />
+                <marker date="1534883124089" expanded="true" signature="50:315" ph="{...}" />
+                <marker date="1534883124089" expanded="true" signature="108:313" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -131,11 +127,11 @@
       <file leaf-file-name="OperationLogSettings.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/__Project__.Common/Invoke/OperationLogSettings.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="144">
+              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
               <folding>
-                <marker date="1534880887058" expanded="true" signature="72:222" ph="{...}" />
-                <marker date="1534880887058" expanded="true" signature="112:220" ph="{...}" />
+                <marker date="1534883121774" expanded="true" signature="72:222" ph="{...}" />
+                <marker date="1534883121774" expanded="true" signature="112:220" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -157,7 +153,7 @@
         <entry file="file://$PROJECT_DIR$/src/__Project__.Common/Invoke/InvokeFunctionLogSetttings.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="72">
-              <caret line="4" column="43" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="43" />
+              <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
               <folding>
                 <marker date="1534880738805" expanded="true" signature="72:254" ph="{...}" />
                 <marker date="1534880738805" expanded="true" signature="118:252" ph="{...}" />
@@ -169,7 +165,7 @@
       <file leaf-file-name="InvokeResultSettings.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/__Project__.Common/Invoke/InvokeResultSettings.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
+            <state relative-caret-position="459">
               <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
               <folding>
                 <marker date="1534880782988" expanded="true" signature="72:1085" ph="{...}" />
@@ -183,14 +179,31 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="InvokeResult.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/__Project__.Common/Invoke/InvokeResult.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1534879840719" expanded="true" signature="50:1746" ph="{...}" />
+                <marker date="1534879840719" expanded="true" signature="85:1744" ph="{...}" />
+                <marker date="1534879840719" expanded="true" signature="480:633" ph="{...}" />
+                <marker date="1534879840719" expanded="true" signature="762:974" ph="{...}" />
+                <marker date="1534879840719" expanded="true" signature="1124:1323" ph="{...}" />
+                <marker date="1534879840719" expanded="true" signature="1444:1674" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="IInvokeHandler.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/__Project__.Common/Invoke/IInvokeHandler.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+            <state relative-caret-position="342">
+              <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
               <folding>
-                <marker date="1534880267180" expanded="true" signature="50:681" ph="{...}" />
-                <marker date="1534880267180" expanded="true" signature="91:679" ph="{...}" />
+                <marker date="1534883459169" expanded="true" signature="6:43" ph="..." />
+                <marker date="1534883459169" expanded="true" signature="80:1211" ph="{...}" />
+                <marker date="1534883459169" expanded="true" signature="121:1209" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -210,7 +223,7 @@
     <setting file="file://$PROJECT_DIR$/src/__Project__.Common/Invoke/InvokeResult.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/__Project__.Common/Invoke/IInvokeResultSettings.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/__Project__.Common/Invoke/IInvokeHandler.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/__Project__.Common/Invoke/IInvoker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/__Project__.Common/Invoke/BaseInvokeHandler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/__Project__.Web/nlog.config" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/__Project__.Web/Controllers/ValuesController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/__Project__.Web/Program.cs" root0="FORCE_HIGHLIGHTING" />
@@ -223,16 +236,17 @@
         <option value="$PROJECT_DIR$/src/__Project__.Common/IInvoker.cs" />
         <option value="$PROJECT_DIR$/src/__Project__.Common/ResultCode.cs" />
         <option value="$PROJECT_DIR$/src/__Project__.Common/Invoke/IInvokeResultManager.cs" />
-        <option value="$PROJECT_DIR$/src/__Project__.Web/Startup.cs" />
         <option value="$PROJECT_DIR$/src/__Project__.Web/Program.cs" />
-        <option value="$PROJECT_DIR$/src/__Project__.Common/Invoke/IInvokeHandler.cs" />
         <option value="$PROJECT_DIR$/src/__Project__.Common/Invoke/InvokeFunctionLogSetttings.cs" />
-        <option value="$PROJECT_DIR$/src/__Project__.Common/Invoke/OperationLogSettings.cs" />
         <option value="$PROJECT_DIR$/src/__Project__.Common/Invoke/LogInvokeResult.cs" />
-        <option value="$PROJECT_DIR$/src/__Project__.Common/Invoke/IInvokeResultSettings.cs" />
         <option value="$PROJECT_DIR$/src/__Project__.Common/Invoke/InvokeResultSettings.cs" />
         <option value="$PROJECT_DIR$/src/__Project__.Common/Invoke/IInvoker.cs" />
         <option value="$PROJECT_DIR$/src/__Project__.Web/Controllers/ValuesController.cs" />
+        <option value="$PROJECT_DIR$/src/__Project__.Web/Startup.cs" />
+        <option value="$PROJECT_DIR$/src/__Project__.Common/Invoke/OperationLogSettings.cs" />
+        <option value="$PROJECT_DIR$/src/__Project__.Common/Invoke/IInvokeResultSettings.cs" />
+        <option value="$PROJECT_DIR$/src/__Project__.Common/Invoke/IInvokeHandler.cs" />
+        <option value="$PROJECT_DIR$/src/__Project__.Common/Invoke/BaseInvokeHandler.cs" />
       </list>
     </option>
   </component>
@@ -351,12 +365,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1534879200896</updated>
-      <workItem from="1534879202026" duration="2399000" />
+      <workItem from="1534879202026" duration="3736000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2399000" />
+    <option name="totallyTimeSpent" value="3736000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -381,12 +395,12 @@
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="NuGet" weight="0.32897604" />
-      <window_info anchor="right" content_ui="combo" id="Project" order="5" visible="true" weight="0.25" />
+      <window_info active="true" anchor="right" content_ui="combo" id="Project" order="5" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Build" />
       <window_info anchor="right" id="Database" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39978212" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.21786493" />
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
@@ -403,6 +417,11 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/__Project__.Common/Class1.cs">
       <provider selected="true" editor-type-id="text-editor" />
@@ -418,36 +437,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="17" selection-start-column="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/__Project__.Common/Invoke/InvokeResult.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1534879840719" expanded="true" signature="50:1746" ph="{...}" />
-            <marker date="1534879840719" expanded="true" signature="85:1744" ph="{...}" />
-            <marker date="1534879840719" expanded="true" signature="480:633" ph="{...}" />
-            <marker date="1534879840719" expanded="true" signature="762:974" ph="{...}" />
-            <marker date="1534879840719" expanded="true" signature="1124:1323" ph="{...}" />
-            <marker date="1534879840719" expanded="true" signature="1444:1674" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/__Project__.Web/Startup.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="47" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
-          <folding>
-            <marker date="1534880337002" expanded="true" signature="6:194" ph="..." />
-            <marker date="1534880337002" expanded="true" signature="221:1170" ph="{...}" />
-            <marker date="1534880337002" expanded="true" signature="248:1168" ph="{...}" />
-            <marker date="1534880337002" expanded="true" signature="307:370" ph="{...}" />
-            <marker date="1534880337002" expanded="true" signature="593:813" ph="{...}" />
-            <marker date="1534880337002" expanded="true" signature="1001:1162" ph="{...}" />
-            <marker date="1534880337002" expanded="true" signature="1048:1125" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -468,35 +457,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/__Project__.Common/Invoke/IInvokeHandler.cs">
+    <entry file="file://$PROJECT_DIR$/src/__Project__.Web/Controllers/ValuesController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+        <state relative-caret-position="180">
+          <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
           <folding>
-            <marker date="1534880267180" expanded="true" signature="50:681" ph="{...}" />
-            <marker date="1534880267180" expanded="true" signature="91:679" ph="{...}" />
+            <marker date="1534880997956" expanded="false" signature="6:128" ph="..." />
+            <marker date="1534880997956" expanded="true" signature="200:1399" ph="{...}" />
+            <marker date="1534880997956" expanded="true" signature="289:1397" ph="{...}" />
+            <marker date="1534880997956" expanded="true" signature="450:726" ph="{...}" />
+            <marker date="1534880997956" expanded="true" signature="580:714" ph="{...}" />
+            <marker date="1534880997956" expanded="true" signature="812:891" ph="{...}" />
+            <marker date="1534880997956" expanded="true" signature="980:1028" ph="{...}" />
+            <marker date="1534880997956" expanded="true" signature="1124:1144" ph="{...}" />
+            <marker date="1534880997956" expanded="true" signature="1255:1275" ph="{...}" />
+            <marker date="1534880997956" expanded="true" signature="1371:1391" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/__Project__.Common/Invoke/InvokeFunctionLogSetttings.cs">
+    <entry file="file://$PROJECT_DIR$/src/__Project__.Common/Invoke/InvokeResult.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="43" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="43" />
+        <state>
           <folding>
-            <marker date="1534880738805" expanded="true" signature="72:254" ph="{...}" />
-            <marker date="1534880738805" expanded="true" signature="118:252" ph="{...}" />
+            <marker date="1534879840719" expanded="true" signature="50:1746" ph="{...}" />
+            <marker date="1534879840719" expanded="true" signature="85:1744" ph="{...}" />
+            <marker date="1534879840719" expanded="true" signature="480:633" ph="{...}" />
+            <marker date="1534879840719" expanded="true" signature="762:974" ph="{...}" />
+            <marker date="1534879840719" expanded="true" signature="1124:1323" ph="{...}" />
+            <marker date="1534879840719" expanded="true" signature="1444:1674" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/__Project__.Common/Invoke/OperationLogSettings.cs">
+    <entry file="file://$PROJECT_DIR$/src/__Project__.Common/Invoke/InvokeResultSettings.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="459">
+          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
           <folding>
-            <marker date="1534880887058" expanded="true" signature="72:222" ph="{...}" />
-            <marker date="1534880887058" expanded="true" signature="112:220" ph="{...}" />
+            <marker date="1534880782988" expanded="true" signature="72:1085" ph="{...}" />
+            <marker date="1534880782988" expanded="true" signature="136:1083" ph="{...}" />
+            <marker date="1534880782988" expanded="true" signature="180:762" ph="{...}" />
+            <marker date="1534880782988" expanded="true" signature="264:356" ph="{...}" />
+            <marker date="1534880782988" expanded="true" signature="444:536" ph="{...}" />
+            <marker date="1534880782988" expanded="true" signature="635:751" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -511,72 +515,104 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/__Project__.Web/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <marker date="1534882973385" expanded="true" signature="6:307" ph="..." />
+            <marker date="1534882973385" expanded="true" signature="334:1299" ph="{...}" />
+            <marker date="1534882973385" expanded="true" signature="361:1296" ph="{...}" />
+            <marker date="1534882973385" expanded="true" signature="420:483" ph="{...}" />
+            <marker date="1534882973385" expanded="true" signature="706:926" ph="{...}" />
+            <marker date="1534882973385" expanded="true" signature="1114:1275" ph="{...}" />
+            <marker date="1534882973385" expanded="true" signature="1161:1238" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/__Project__.Common/Invoke/OperationLogSettings.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <marker date="1534883121774" expanded="true" signature="72:222" ph="{...}" />
+            <marker date="1534883121774" expanded="true" signature="112:220" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/__Project__.Common/Invoke/IInvokeResultSettings.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
-          <caret line="8" column="34" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="34" />
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
           <folding>
-            <marker date="1534880762075" expanded="true" signature="50:315" ph="{...}" />
-            <marker date="1534880762075" expanded="true" signature="108:313" ph="{...}" />
+            <marker date="1534883124089" expanded="true" signature="50:315" ph="{...}" />
+            <marker date="1534883124089" expanded="true" signature="108:313" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/__Project__.Common/Invoke/InvokeResultSettings.cs">
+    <entry file="file://$PROJECT_DIR$/src/__Project__.Common/Invoke/InvokeFunctionLogSetttings.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+        <state relative-caret-position="72">
+          <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
           <folding>
-            <marker date="1534880782988" expanded="true" signature="72:1085" ph="{...}" />
-            <marker date="1534880782988" expanded="true" signature="136:1083" ph="{...}" />
-            <marker date="1534880782988" expanded="true" signature="180:762" ph="{...}" />
-            <marker date="1534880782988" expanded="true" signature="264:356" ph="{...}" />
-            <marker date="1534880782988" expanded="true" signature="444:536" ph="{...}" />
-            <marker date="1534880782988" expanded="true" signature="635:751" ph="{...}" />
+            <marker date="1534880738805" expanded="true" signature="72:254" ph="{...}" />
+            <marker date="1534880738805" expanded="true" signature="118:252" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/__Project__.Common/Invoke/IInvoker.cs">
+    <entry file="file://$PROJECT_DIR$/src/__Project__.Common/Invoke/IInvokeHandler.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-302">
-          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        <state relative-caret-position="342">
+          <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
           <folding>
-            <marker date="1534880854224" expanded="false" signature="6:147" ph="..." />
-            <marker date="1534880854224" expanded="true" signature="184:3926" ph="{...}" />
-            <marker date="1534880854224" expanded="true" signature="244:3924" ph="{...}" />
-            <marker date="1534880854224" expanded="true" signature="473:595" ph="{...}" />
-            <marker date="1534880854224" expanded="true" signature="681:771" ph="{...}" />
-            <marker date="1534880854224" expanded="true" signature="963:1784" ph="{...}" />
-            <marker date="1534880854224" expanded="true" signature="1310:1644" ph="{...}" />
-            <marker date="1534880854224" expanded="true" signature="1960:2031" ph="{...}" />
-            <marker date="1534880854224" expanded="true" signature="2101:2182" ph="{...}" />
-            <marker date="1534880854224" expanded="true" signature="2358:2605" ph="{...}" />
-            <marker date="1534880854224" expanded="true" signature="2707:2886" ph="{...}" />
-            <marker date="1534880854224" expanded="true" signature="2765:2876" ph="{...}" />
-            <marker date="1534880854224" expanded="true" signature="3069:3246" ph="{...}" />
-            <marker date="1534880854224" expanded="true" signature="3127:3236" ph="{...}" />
-            <marker date="1534880854224" expanded="true" signature="3364:3918" ph="{...}" />
-            <marker date="1534880854224" expanded="true" signature="3432:3908" ph="{...}" />
+            <marker date="1534883459169" expanded="true" signature="6:43" ph="..." />
+            <marker date="1534883459169" expanded="true" signature="80:1211" ph="{...}" />
+            <marker date="1534883459169" expanded="true" signature="121:1209" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/__Project__.Web/Controllers/ValuesController.cs">
+    <entry file="file://$PROJECT_DIR$/src/__Project__.Common/Invoke/BaseInvokeHandler.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="27" column="12" lean-forward="true" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+        <state relative-caret-position="540">
+          <caret line="147" lean-forward="true" selection-start-line="147" selection-end-line="147" />
           <folding>
-            <marker date="1534880997956" expanded="false" signature="6:128" ph="..." />
-            <marker date="1534880997956" expanded="true" signature="200:1399" ph="{...}" />
-            <marker date="1534880997956" expanded="true" signature="289:1397" ph="{...}" />
-            <marker date="1534880997956" expanded="true" signature="450:726" ph="{...}" />
-            <marker date="1534880997956" expanded="true" signature="580:714" ph="{...}" />
-            <marker date="1534880997956" expanded="true" signature="812:891" ph="{...}" />
-            <marker date="1534880997956" expanded="true" signature="980:1028" ph="{...}" />
-            <marker date="1534880997956" expanded="true" signature="1124:1144" ph="{...}" />
-            <marker date="1534880997956" expanded="true" signature="1255:1275" ph="{...}" />
-            <marker date="1534880997956" expanded="true" signature="1371:1391" ph="{...}" />
+            <marker date="1534883536833" expanded="false" signature="6:177" ph="..." />
+            <marker date="1534883536833" expanded="true" signature="214:7175" ph="{...}" />
+            <marker date="1534883536833" expanded="true" signature="274:7173" ph="{...}" />
+            <marker date="1534883536833" expanded="true" signature="503:625" ph="{...}" />
+            <marker date="1534883536833" expanded="true" signature="635:2860" ph="Invoke" />
+            <marker date="1534883536833" expanded="true" signature="735:825" ph="{...}" />
+            <marker date="1534883536833" expanded="true" signature="1017:2045" ph="{...}" />
+            <marker date="1534883536833" expanded="true" signature="1364:1698" ph="{...}" />
+            <marker date="1534883536833" expanded="true" signature="1764:1831" ph="{...}" />
+            <marker date="1534883536833" expanded="true" signature="1864:1926" ph="{...}" />
+            <marker date="1534883536833" expanded="true" signature="2115:2196" ph="{...}" />
+            <marker date="1534883536833" expanded="true" signature="2372:2840" ph="{...}" />
+            <marker date="1534883536833" expanded="true" signature="2559:2626" ph="{...}" />
+            <marker date="1534883536833" expanded="true" signature="2659:2721" ph="{...}" />
+            <marker date="1534883536833" expanded="true" signature="2870:5360" ph="AsyncInvoke" />
+            <marker date="1534883536833" expanded="true" signature="2976:3062" ph="{...}" />
+            <marker date="1534883536833" expanded="true" signature="3340:3814" ph="{...}" />
+            <marker date="1534883536833" expanded="true" signature="3527:3600" ph="{...}" />
+            <marker date="1534883536833" expanded="true" signature="3633:3695" ph="{...}" />
+            <marker date="1534883536833" expanded="true" signature="3917:4012" ph="{...}" />
+            <marker date="1534883536833" expanded="true" signature="4306:5340" ph="{...}" />
+            <marker date="1534883536833" expanded="true" signature="4653:4987" ph="{...}" />
+            <marker date="1534883536833" expanded="true" signature="5053:5126" ph="{...}" />
+            <marker date="1534883536833" expanded="true" signature="5159:5221" ph="{...}" />
+            <marker date="1534883536833" expanded="true" signature="5451:5522" ph="{...}" />
+            <marker date="1534883536833" expanded="true" signature="5709:5888" ph="{...}" />
+            <marker date="1534883536833" expanded="true" signature="5767:5878" ph="{...}" />
+            <marker date="1534883536833" expanded="true" signature="6071:6248" ph="{...}" />
+            <marker date="1534883536833" expanded="true" signature="6129:6238" ph="{...}" />
+            <marker date="1534883536833" expanded="true" signature="6307:6495" ph="{...}" />
+            <marker date="1534883536833" expanded="true" signature="6613:7167" ph="{...}" />
+            <marker date="1534883536833" expanded="true" signature="6681:7157" ph="{...}" />
           </folding>
         </state>
       </provider>

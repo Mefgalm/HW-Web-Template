@@ -1,7 +1,11 @@
-﻿using Microsoft.AspNetCore.Builder;
+﻿using System;
+using System.Threading.Tasks;
+using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Logging;
 using __Project__.Common.Invoke;
 
 namespace __Project__.Web
@@ -32,6 +36,7 @@ namespace __Project__.Web
             }
 
             app.UseMvc();
-        }
+        }               
     }
+
 }

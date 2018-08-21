@@ -10,8 +10,8 @@
           <e p="__Project__.Common.csproj" t="IncludeRecursive" />
           <e p="bin" t="ExcludeRecursive" />
           <e p="Invoke" t="Include">
+            <e p="BaseInvokeHandler.cs" t="Include" />
             <e p="IInvokeHandler.cs" t="Include" />
-            <e p="IInvoker.cs" t="Include" />
             <e p="IInvokeResultSettings.cs" t="Include" />
             <e p="InvokeFunctionLogSetttings.cs" t="Include" />
             <e p="InvokeResult.cs" t="Include" />

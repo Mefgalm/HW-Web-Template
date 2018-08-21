@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading.Tasks;
 
 namespace __Project__.Common.Invoke
 {
@@ -12,5 +13,11 @@ namespace __Project__.Common.Invoke
         
         InvokeResult<T> Invoke<T>(Func<InvokeResult<T>> func, object request);
         InvokeResult<T> Invoke<T>(Func<InvokeResult<T>> func, object request, Func<IInvokeResultSettings, IInvokeResultSettings> settingsFunc);
+        
+        Task<InvokeResult<T>> InvokeAsync<T>(Func<Task<InvokeResult<T>>> func);
+        Task<InvokeResult<T>> InvokeAsync<T>(Func<Task<InvokeResult<T>>> func, Func<IInvokeResultSettings, IInvokeResultSettings> settingsFunc);
+        
+        Task<InvokeResult<T>> InvokeAsync<T>(Func<Task<InvokeResult<T>>> func, object request);
+        Task<InvokeResult<T>> InvokeAsync<T>(Func<Task<InvokeResult<T>>> func, object request, Func<IInvokeResultSettings, IInvokeResultSettings> settingsFunc);
     }
 }
