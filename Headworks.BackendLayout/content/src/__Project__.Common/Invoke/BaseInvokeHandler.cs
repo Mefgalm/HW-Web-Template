@@ -159,7 +159,7 @@ namespace __Project__.Common.Invoke
         {
             if (operationLogSettings.IsLogging)
             {
-                _logger.Log(operationLogSettings.LogLevel, "{@request}", request);
+                _logger.Log(operationLogSettings.LogLevel, "{request}", request);
             }
         }
 
@@ -180,6 +180,8 @@ namespace __Project__.Common.Invoke
 
         protected virtual void LogInvoke<T>(InvokeResult<T> result, InvokeFunctionLogSetttings operationLogSettings)
         {
+            if(result == null) return;
+            
             switch (operationLogSettings.LogInvokeResult)
             {
                 case LogInvokeResult.Always:

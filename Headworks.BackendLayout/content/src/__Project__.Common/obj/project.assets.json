@@ -284,7 +284,7 @@
       ]
     },
     "NETStandard.Library/2.0.3": {
-      "sha512": "OX/PaclypxGH/SWm3udiPbsfHdFUEkL9kbB4nM7glhuOYX1H97SaP6UJe10D1rPkH3zQJP1xzFYRGPhrmxLh+Q==",
+      "sha512": "st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
       "type": "package",
       "path": "netstandard.library/2.0.3",
       "files": [
@@ -407,8 +407,7 @@
         "build/netstandard2.0/ref/netstandard.xml",
         "lib/netstandard1.0/_._",
         "netstandard.library.2.0.3.nupkg.sha512",
-        "netstandard.library.nuspec",
-        "paket-installmodel.cache"
+        "netstandard.library.nuspec"
       ]
     },
     "System.Buffers/4.4.0": {
@@ -622,23 +621,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mef\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/admin/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Programming\\Projects\\PlayCatCore\\HW-Web-Template\\Headworks.BackendLayout\\content\\src\\__Project__.Common\\__Project__.Common.csproj",
+      "projectUniqueName": "/Users/admin/RiderProjects/HW Web Template/Headworks.BackendLayout/content/src/__Project__.Common/__Project__.Common.csproj",
       "projectName": "__Project__.Common",
-      "projectPath": "E:\\Programming\\Projects\\PlayCatCore\\HW-Web-Template\\Headworks.BackendLayout\\content\\src\\__Project__.Common\\__Project__.Common.csproj",
-      "packagesPath": "C:\\Users\\Mef\\.nuget\\packages\\",
-      "outputPath": "E:\\Programming\\Projects\\PlayCatCore\\HW-Web-Template\\Headworks.BackendLayout\\content\\src\\__Project__.Common\\obj\\",
+      "projectPath": "/Users/admin/RiderProjects/HW Web Template/Headworks.BackendLayout/content/src/__Project__.Common/__Project__.Common.csproj",
+      "packagesPath": "/Users/admin/.nuget/packages/",
+      "outputPath": "/Users/admin/RiderProjects/HW Web Template/Headworks.BackendLayout/content/src/__Project__.Common/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Mef\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/admin/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"

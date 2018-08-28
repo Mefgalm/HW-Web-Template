@@ -1,13 +1,13 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "E:\\Programming\\Projects\\PlayCatCore\\HW-Web-Template\\Headworks.BackendLayout\\content\\src\\__Project__.Web\\__Project__.Web.csproj",
+    "projectUniqueName": "/Users/admin/RiderProjects/HW Web Template/Headworks.BackendLayout/content/src/__Project__.Web/__Project__.Web.csproj",
     "projectName": "__Project__.Web",
-    "projectPath": "E:\\Programming\\Projects\\PlayCatCore\\HW-Web-Template\\Headworks.BackendLayout\\content\\src\\__Project__.Web\\__Project__.Web.csproj",
-    "outputPath": "E:\\Programming\\Projects\\PlayCatCore\\HW-Web-Template\\Headworks.BackendLayout\\content\\src\\__Project__.Web\\obj\\",
+    "projectPath": "/Users/admin/RiderProjects/HW Web Template/Headworks.BackendLayout/content/src/__Project__.Web/__Project__.Web.csproj",
+    "outputPath": "/Users/admin/RiderProjects/HW Web Template/Headworks.BackendLayout/content/src/__Project__.Web/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
-      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
     ],
     "originalTargetFrameworks": [
       "netcoreapp2.0"
@@ -15,8 +15,8 @@
     "frameworks": {
       "netcoreapp2.0": {
         "projectReferences": {
-          "E:\\Programming\\Projects\\PlayCatCore\\HW-Web-Template\\Headworks.BackendLayout\\content\\src\\__Project__.Common\\__Project__.Common.csproj": {
-            "projectPath": "E:\\Programming\\Projects\\PlayCatCore\\HW-Web-Template\\Headworks.BackendLayout\\content\\src\\__Project__.Common\\__Project__.Common.csproj"
+          "/Users/admin/RiderProjects/HW Web Template/Headworks.BackendLayout/content/src/__Project__.Common/__Project__.Common.csproj": {
+            "projectPath": "/Users/admin/RiderProjects/HW Web Template/Headworks.BackendLayout/content/src/__Project__.Common/__Project__.Common.csproj"
           }
         }
       }

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\Mef\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\___Project__.1869182722.00" t="ExcludeRecursive" />
-    <e p="E:\Programming\Projects\PlayCatCore\HW-Web-Template\Headworks.BackendLayout\content" t="IncludeFlat">
+    <e p="$USER_HOME$/Library/Caches/Rider2018.1/resharper-host/local/Transient/ReSharperHost/v12/SolutionCaches/___Project__.1304860983.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
       <e p="__Project__.sln" t="IncludeFlat" />
       <e p="packages" t="ExcludeRecursive" />
       <e p="src" t="Include">

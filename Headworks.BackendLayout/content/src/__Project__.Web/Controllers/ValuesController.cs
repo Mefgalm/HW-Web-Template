@@ -24,8 +24,20 @@ namespace __Project__.Web.Controllers
 
         // GET api/values
         [HttpGet]
-        public IEnumerable<string> Get()
-        {   
+        public async Task<IEnumerable<string>> Get()
+        {
+            var res =new {
+                name = "Vlad",
+                age = 24
+            };
+            
+            await _invokeHandler.InvokeAsync(async () =>
+            {
+                await Task.Delay(10);
+                
+                return InvokeResult<object>.Ok();
+            }, res);
+        
             return new string[] { "value1", "value2" };
         }
 

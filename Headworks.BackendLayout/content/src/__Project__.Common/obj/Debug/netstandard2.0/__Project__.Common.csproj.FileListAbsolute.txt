@@ -1,9 +1,18 @@
-E:\Programming\Projects\PlayCatCore\HW-Web-Template\Headworks.BackendLayout\content\src\__Project__.Common\bin\Debug\netstandard2.0\__Project__.Common.deps.json
-E:\Programming\Projects\PlayCatCore\HW-Web-Template\Headworks.BackendLayout\content\src\__Project__.Common\bin\Debug\netstandard2.0\__Project__.Common.dll
-E:\Programming\Projects\PlayCatCore\HW-Web-Template\Headworks.BackendLayout\content\src\__Project__.Common\bin\Debug\netstandard2.0\__Project__.Common.pdb
-E:\Programming\Projects\PlayCatCore\HW-Web-Template\Headworks.BackendLayout\content\src\__Project__.Common\obj\Debug\netstandard2.0\__Project__.Common.csprojAssemblyReference.cache
-E:\Programming\Projects\PlayCatCore\HW-Web-Template\Headworks.BackendLayout\content\src\__Project__.Common\obj\Debug\netstandard2.0\__Project__.Common.csproj.CoreCompileInputs.cache
-E:\Programming\Projects\PlayCatCore\HW-Web-Template\Headworks.BackendLayout\content\src\__Project__.Common\obj\Debug\netstandard2.0\__Project__.Common.AssemblyInfoInputs.cache
-E:\Programming\Projects\PlayCatCore\HW-Web-Template\Headworks.BackendLayout\content\src\__Project__.Common\obj\Debug\netstandard2.0\__Project__.Common.AssemblyInfo.cs
-E:\Programming\Projects\PlayCatCore\HW-Web-Template\Headworks.BackendLayout\content\src\__Project__.Common\obj\Debug\netstandard2.0\__Project__.Common.dll
-E:\Programming\Projects\PlayCatCore\HW-Web-Template\Headworks.BackendLayout\content\src\__Project__.Common\obj\Debug\netstandard2.0\__Project__.Common.pdb
+E:/Programming/Projects/PlayCatCore/HW-Web-Template/Headworks.BackendLayout/content/src/__Project__.Common/bin/Debug/netstandard2.0/__Project__.Common.deps.json
+E:/Programming/Projects/PlayCatCore/HW-Web-Template/Headworks.BackendLayout/content/src/__Project__.Common/bin/Debug/netstandard2.0/__Project__.Common.dll
+E:/Programming/Projects/PlayCatCore/HW-Web-Template/Headworks.BackendLayout/content/src/__Project__.Common/bin/Debug/netstandard2.0/__Project__.Common.pdb
+E:/Programming/Projects/PlayCatCore/HW-Web-Template/Headworks.BackendLayout/content/src/__Project__.Common/obj/Debug/netstandard2.0/__Project__.Common.csprojAssemblyReference.cache
+E:/Programming/Projects/PlayCatCore/HW-Web-Template/Headworks.BackendLayout/content/src/__Project__.Common/obj/Debug/netstandard2.0/__Project__.Common.csproj.CoreCompileInputs.cache
+E:/Programming/Projects/PlayCatCore/HW-Web-Template/Headworks.BackendLayout/content/src/__Project__.Common/obj/Debug/netstandard2.0/__Project__.Common.AssemblyInfoInputs.cache
+E:/Programming/Projects/PlayCatCore/HW-Web-Template/Headworks.BackendLayout/content/src/__Project__.Common/obj/Debug/netstandard2.0/__Project__.Common.AssemblyInfo.cs
+E:/Programming/Projects/PlayCatCore/HW-Web-Template/Headworks.BackendLayout/content/src/__Project__.Common/obj/Debug/netstandard2.0/__Project__.Common.dll
+E:/Programming/Projects/PlayCatCore/HW-Web-Template/Headworks.BackendLayout/content/src/__Project__.Common/obj/Debug/netstandard2.0/__Project__.Common.pdb
+/Users/admin/RiderProjects/HW Web Template/Headworks.BackendLayout/content/src/__Project__.Common/bin/Debug/netstandard2.0/__Project__.Common.deps.json
+/Users/admin/RiderProjects/HW Web Template/Headworks.BackendLayout/content/src/__Project__.Common/bin/Debug/netstandard2.0/__Project__.Common.dll
+/Users/admin/RiderProjects/HW Web Template/Headworks.BackendLayout/content/src/__Project__.Common/bin/Debug/netstandard2.0/__Project__.Common.pdb
+/Users/admin/RiderProjects/HW Web Template/Headworks.BackendLayout/content/src/__Project__.Common/obj/Debug/netstandard2.0/__Project__.Common.csprojAssemblyReference.cache
+/Users/admin/RiderProjects/HW Web Template/Headworks.BackendLayout/content/src/__Project__.Common/obj/Debug/netstandard2.0/__Project__.Common.csproj.CoreCompileInputs.cache
+/Users/admin/RiderProjects/HW Web Template/Headworks.BackendLayout/content/src/__Project__.Common/obj/Debug/netstandard2.0/__Project__.Common.AssemblyInfoInputs.cache
+/Users/admin/RiderProjects/HW Web Template/Headworks.BackendLayout/content/src/__Project__.Common/obj/Debug/netstandard2.0/__Project__.Common.AssemblyInfo.cs
+/Users/admin/RiderProjects/HW Web Template/Headworks.BackendLayout/content/src/__Project__.Common/obj/Debug/netstandard2.0/__Project__.Common.dll
+/Users/admin/RiderProjects/HW Web Template/Headworks.BackendLayout/content/src/__Project__.Common/obj/Debug/netstandard2.0/__Project__.Common.pdb

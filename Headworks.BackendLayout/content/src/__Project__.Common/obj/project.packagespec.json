@@ -1,13 +1,13 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "E:\\Programming\\Projects\\PlayCatCore\\HW-Web-Template\\Headworks.BackendLayout\\content\\src\\__Project__.Common\\__Project__.Common.csproj",
+    "projectUniqueName": "/Users/admin/RiderProjects/HW Web Template/Headworks.BackendLayout/content/src/__Project__.Common/__Project__.Common.csproj",
     "projectName": "__Project__.Common",
-    "projectPath": "E:\\Programming\\Projects\\PlayCatCore\\HW-Web-Template\\Headworks.BackendLayout\\content\\src\\__Project__.Common\\__Project__.Common.csproj",
-    "outputPath": "E:\\Programming\\Projects\\PlayCatCore\\HW-Web-Template\\Headworks.BackendLayout\\content\\src\\__Project__.Common\\obj\\",
+    "projectPath": "/Users/admin/RiderProjects/HW Web Template/Headworks.BackendLayout/content/src/__Project__.Common/__Project__.Common.csproj",
+    "outputPath": "/Users/admin/RiderProjects/HW Web Template/Headworks.BackendLayout/content/src/__Project__.Common/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
-      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
     ],
     "originalTargetFrameworks": [
       "netstandard2.0"
